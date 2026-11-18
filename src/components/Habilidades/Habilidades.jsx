@@ -13,6 +13,8 @@ export function Habilidades() {
                         <ul>
                             <li className="tag">Java</li>
                             <li className="tag">JavaScript</li>
+                            <li className="tag">SQL</li>
+                            
                         </ul>
                     </div>
                     <div className="card">
@@ -30,6 +32,8 @@ export function Habilidades() {
                             <li className="tag">Git</li>
                             <li className="tag">React</li>
                             <li className="tag estudando">Spring Boot</li>
+                            <li className="tag">PostgreSQL</li>
+
                         </ul>
                     </div>
                 </div>
