@@ -2,7 +2,7 @@ import "./Hero.css"
 
 const codigo = `public class Desenvolvedor {
     String foco = "Java + POO";
-    String objetivo = "Dev Java Júnior";
+    String objetivo = "Desenvolvedor / Programador";
     String cidade = "Fortaleza";
 
     void aprender() {
@@ -16,7 +16,7 @@ export function Hero() {
         <section id="inicio" className="hero">
             <div className="hero-texto">
                 <span className="rotulo">// disponível para vagas júnior</span>
-                <h1>Olá, eu sou Caio Gabriel. Desenvolvedor Java em formação.</h1>
+                <h1>Olá, eu sou Caio Gabriel. Desenvolvedor e Programador em formação.</h1>
                 <p>Estudo Java e Programação Orientada a Objetos construindo projetos reais, passo a passo.</p>
                 <div className="hero-botoes">
                     <a href="#projetos" className="botao">Ver projetos</a>

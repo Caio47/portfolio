@@ -1,6 +1,6 @@
 # Portfólio — Caio Gabriel
 
-Meu portfólio pessoal, feito para apresentar quem sou, o que estou estudando e os projetos que construo. Sou desenvolvedor Java em formação e busco minha primeira oportunidade como **Desenvolvedor Java Júnior** ou estágio.
+Meu portfólio pessoal, feito para apresentar quem sou, o que estou estudando e os projetos que construo. Sou desenvolvedor e programador em formação e busco minha primeira oportunidade em vagas de **Desenvolvedor e Programador** ou estágio.
 
 🔗 **Site:** _em breve (link da Vercel/Netlify)_
 

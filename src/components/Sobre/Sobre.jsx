@@ -11,7 +11,7 @@ export function Sobre() {
             <div className="sobre-texto">
 
                 <p>
-                    Olá, sou o Caio Gabriel, desenvolvedor em formação com foco em back-end Java ,faço Ciências da Computação na Estácio estou no meu último semestre e estudo Java por conta própria, com ênfase em Programação Orientada a Objetos. Gosto de aprender fazendo. Cada conceito novo vira prática em algum projeto.
+                    Olá, sou o Caio Gabriel, desenvolvedor e programador em formação, com foco em back-end e Java, faço Ciências da Computação na Estácio estou no meu último semestre e estudo Java por conta própria, com ênfase em Programação Orientada a Objetos. Gosto de aprender fazendo. Cada conceito novo vira prática em algum projeto.
                 </p>
 
                 <p>
@@ -19,7 +19,11 @@ export function Sobre() {
                 </p>
                 
                 <p>
-                    Atualmente trabalho como Analista de dados e busco minha primeira oportunidade como desenvolvedor back-end júnior. Quero entrar em um time onde eu possa contribuir, aprender com pessoas mais experientes e crescer na área.
+                    Atualmente trabalho como Analista de dados e busco minha primeira oportunidade em vagas de Desenvolvedor e Programador. Quero entrar em um time onde eu possa contribuir, aprender com pessoas mais experientes e crescer na área.
+                </p>
+
+                <p>
+                    Uso o Claude como apoio no desenvolvimento, tanto no trabalho quanto no dia a dia, inclusive em códigos com Angular e Spring Boot: para me direcionar, entender erros, tirar dúvidas, revisar código, montar consultas SQL, escrever documentação e ganhar tempo em partes repetitivas. Hoje utilizo apenas o Claude. Antes de usar qualquer sugestão, procuro entender o que ela faz, em vez de só copiar, assim aprendo de verdade e sei explicar o que entrego.
                 </p>
 
             </div>

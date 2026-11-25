@@ -7,7 +7,7 @@ export function Contato() {
             <div className="conteudo">
                 <span className="rotulo">05 · contato</span>
                 <h2>Vamos conversar sobre uma vaga?</h2>
-                <p>Estou aberto a oportunidades como Desenvolvedor Java Júnior ou estágio.</p>
+                <p>Estou aberto a oportunidades como Desenvolvedor, Programador ou estágio.</p>
 
                 <div className="contato-botoes">
                     <Botao titulo="Gmail" href="https://mail.google.com/mail/?view=cm&to=caiogbcs@gmail.com" />
